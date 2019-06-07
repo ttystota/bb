@@ -1,0 +1,20 @@
+C:\Users\babaduk\Documents\.1) Second-third course\OOP\Conductor\Conductor\bin\Debug\Conductor.exe.config
+C:\Users\babaduk\Documents\.1) Second-third course\OOP\Conductor\Conductor\bin\Debug\Conductor.exe
+C:\Users\babaduk\Documents\.1) Second-third course\OOP\Conductor\Conductor\bin\Debug\Conductor.pdb
+C:\Users\babaduk\Documents\.1) Second-third course\OOP\Conductor\Conductor\obj\Debug\Conductor.csprojAssemblyReference.cache
+C:\Users\babaduk\Documents\.1) Second-third course\OOP\Conductor\Conductor\obj\Debug\Conductor.Form1.resources
+C:\Users\babaduk\Documents\.1) Second-third course\OOP\Conductor\Conductor\obj\Debug\Conductor.Properties.Resources.resources
+C:\Users\babaduk\Documents\.1) Second-third course\OOP\Conductor\Conductor\obj\Debug\Conductor.csproj.GenerateResource.cache
+C:\Users\babaduk\Documents\.1) Second-third course\OOP\Conductor\Conductor\obj\Debug\Conductor.csproj.CoreCompileInputs.cache
+C:\Users\babaduk\Documents\.1) Second-third course\OOP\Conductor\Conductor\obj\Debug\Conductor.exe
+C:\Users\babaduk\Documents\.1) Second-third course\OOP\Conductor\Conductor\obj\Debug\Conductor.pdb
+D:\OOP\Conductor\Conductor\bin\Debug\Conductor.exe.config
+D:\OOP\Conductor\Conductor\bin\Debug\Conductor.exe
+D:\OOP\Conductor\Conductor\bin\Debug\Conductor.pdb
+D:\OOP\Conductor\Conductor\obj\Debug\Conductor.csprojAssemblyReference.cache
+D:\OOP\Conductor\Conductor\obj\Debug\Conductor.Form1.resources
+D:\OOP\Conductor\Conductor\obj\Debug\Conductor.Properties.Resources.resources
+D:\OOP\Conductor\Conductor\obj\Debug\Conductor.csproj.GenerateResource.cache
+D:\OOP\Conductor\Conductor\obj\Debug\Conductor.csproj.CoreCompileInputs.cache
+D:\OOP\Conductor\Conductor\obj\Debug\Conductor.exe
+D:\OOP\Conductor\Conductor\obj\Debug\Conductor.pdb
